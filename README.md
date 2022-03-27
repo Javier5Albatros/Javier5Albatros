@@ -54,9 +54,9 @@
 
 
 <p><img align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=javieralvarezlo&show_icons=true&locale=en&layout=compact"
+        src="https://github.com/javieralvarezlo/github-stats/blob/master/generated/overview.svg"
         alt="javieralvarezlo" /></p>
 
 <p>&nbsp;<img align="center"
-        src="https://github-readme-stats.vercel.app/api?username=javieralvarezlo&show_icons=true&locale=en"
+        src="https://github.com/javieralvarezlo/github-stats/blob/master/generated/languages.svg"
         alt="javieralvarezlo" /></p>
