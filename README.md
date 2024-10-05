@@ -5,10 +5,6 @@
         src="https://komarev.com/ghpvc/?username=javier5albatros&label=Profile%20views&color=0e75b6&style=flat"
         alt="javier5albatros" /> </p>
 
-<p align="left"> <a href="https://twitter.com/javier5alvarez" target="blank"><img
-            src="https://img.shields.io/twitter/follow/javier5alvarez?logo=twitter&style=for-the-badge"
-            alt="javier5alvarez" /></a> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <a href="https://twitter.com/javier5alvarez" target="blank"><img align="center"
